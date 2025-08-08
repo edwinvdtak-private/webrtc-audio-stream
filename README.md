@@ -1,3 +1,11 @@
+Reeadme for webrtc streamer
+
+Edwin van der Tak
+7 aug 2025 
+
+
+
+```
 webrtc-audio-stream/
 ├── server.js            # Node.js server
 ├── public/
@@ -5,3 +13,4 @@ webrtc-audio-stream/
 ├── signaling.js         # WebRTC signaling logic
 ├── README.md            # Uitleg
 
+``` 
