@@ -1,9 +1,7 @@
-Reeadme for webrtc streamer
+Readme for webrtc streamer
 
 Edwin van der Tak
 7 aug 2025 
-
-
 
 ```
 webrtc-audio-stream/
@@ -14,3 +12,6 @@ webrtc-audio-stream/
 ├── README.md            # Uitleg
 
 ``` 
+
+### Version 0.1 
+added readme and started project
